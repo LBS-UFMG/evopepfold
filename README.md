@@ -1,4 +1,6 @@
-<h1 style="text-align:center">EvoPepFold</h1>
+<p align="center">
+  <strong>EvoPepFold</strong>
+</p>
 
 ## Overview
 This repository contains code that depends on PyRosetta and Local ColabFold and is intended to run on a machine with substantial compute resources. Individual runs typically take **several days**. This README explains how to prepare the environment, install dependencies, and run the code safely in the background on a Linux server.
@@ -28,15 +30,18 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh
 # restart shell or source conda
 source ~/.bashrc
+```
 
 # Create & activate environment (adjust Python version if needed)
+```bash
 conda create -n cf-env python=3.9 -y
 conda activate cf-env
+```
 
 # Install project Python deps
+```bash
 pip install -r requirements.txt
-# consider conda install for large packages available on conda-forge
-
+```
 
 ---
 
