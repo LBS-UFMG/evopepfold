@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/hd/alphafold/docker/run_docker.py", line 274, in <module>
+    app.run(main)
+  File "/home/thor/miniconda3/envs/rosetta/lib/python3.12/site-packages/absl/app.py", line 308, in run
+    _run_main(main, args)
+  File "/home/thor/miniconda3/envs/rosetta/lib/python3.12/site-packages/absl/app.py", line 254, in _run_main
+    sys.exit(main(argv))
+             ^^^^^^^^^^
+  File "/hd/alphafold/docker/run_docker.py", line 210, in main
+    mount, target_path = _create_mount(name, path)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/hd/alphafold/docker/run_docker.py", line 114, in _create_mount
+    raise ValueError(f'Failed to find source directory "{source_path}" to '
+ValueError: Failed to find source directory "/hd/data_alphafold/uniref90" to mount in Docker container.

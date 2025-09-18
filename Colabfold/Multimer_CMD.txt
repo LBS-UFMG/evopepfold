@@ -1,0 +1,12 @@
+Entre parênteses são apenas comentários. O comando para o Multimer seria:
+
+nohup python3 /hd/alphafold/docker/run_docker.py \
+--fasta_paths=/home/thor/Fred/fasta/inputs.fasta \
+--max_template_date=2023-12-31 \
+--model_preset=multimer \
+--num_multimer_predictions_per_model=1 \
+--db_preset=reduced_dbs \
+--data_dir=/hd/data_alphafold/ \
+--gpu_devices=0 \
+--docker_user=0 \
+--output_dir=/home/thor/Fred/output/>output.log 2>&1 &

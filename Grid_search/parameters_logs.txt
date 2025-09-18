@@ -1,0 +1,1729 @@
+Parameter testing script for the genetic algorithm component
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -578.1541011802208 REUTIME TAKEN: 2630.88 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -593.4912318286875 REUTIME TAKEN: 2645.48 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -574.2885346813557 REUTIME TAKEN: 2705.48 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -593.261762244438 REUTIME TAKEN: 2697.47 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -602.6440181320208 REUTIME TAKEN: 2668.09 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -577.8681722582664 REUTIME TAKEN: 2654.47 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -608.3016353647113 REUTIME TAKEN: 2599.67 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -582.9911235574484 REUTIME TAKEN: 2632.4 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -586.896515533664 REUTIME TAKEN: 2602.3 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -596.7478021232562 REUTIME TAKEN: 2644.82 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -601.5171195840252 REUTIME TAKEN: 2633.79 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -570.7240080022513 REUTIME TAKEN: 2576.19 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -576.2134939646925 REUTIME TAKEN: 2620.26 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -596.4677896508689 REUTIME TAKEN: 2700.28 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -587.1244071158379 REUTIME TAKEN: 2607.83 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -580.8443592538613 REUTIME TAKEN: 2566.57 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -584.6662479115365 REUTIME TAKEN: 2656.47 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -586.8677623806542 REUTIME TAKEN: 2656.35 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -588.8922803385889 REUTIME TAKEN: 2618.53 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -589.2424586679391 REUTIME TAKEN: 2644.87 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -580.8393821067274 REUTIME TAKEN: 2627.64 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -573.562708914505 REUTIME TAKEN: 2655.98 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -595.7385302868202 REUTIME TAKEN: 2677.48 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -595.373169102285 REUTIME TAKEN: 2626.45 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -602.130377409539 REUTIME TAKEN: 2626.96 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -585.206535962797 REUTIME TAKEN: 2671.93 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -576.1335157073506 REUTIME TAKEN: 2633.82 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -581.8915211596043 REUTIME TAKEN: 2598.84 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -599.0266598774642 REUTIME TAKEN: 2595.15 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -597.104365477369 REUTIME TAKEN: 2641.85 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -583.8081364597346 REUTIME TAKEN: 2570.99 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -566.9724041667408 REUTIME TAKEN: 2572.09 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -564.792931036723 REUTIME TAKEN: 2629.94 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -597.4786572979903 REUTIME TAKEN: 2590.37 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -587.9075122507758 REUTIME TAKEN: 2572.29 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -606.1064715055857 REUTIME TAKEN: 2609.67 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -591.2809014903066 REUTIME TAKEN: 2598.91 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -589.8491921958957 REUTIME TAKEN: 3283.83 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -591.8982885751803 REUTIME TAKEN: 2584.0 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -579.4909411514855 REUTIME TAKEN: 2645.67 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -584.6993333123261 REUTIME TAKEN: 2574.7 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -594.6910297078169 REUTIME TAKEN: 2634.95 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -583.2566340792647 REUTIME TAKEN: 2658.23 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -578.6445811612217 REUTIME TAKEN: 2591.89 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -582.4689907565283 REUTIME TAKEN: 2591.5 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -596.2877966003566 REUTIME TAKEN: 2653.14 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -594.8297408915664 REUTIME TAKEN: 2616.73 seconds
+
+
+Testing the combination:
+	*tournament size = 2
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -597.2014853479246 REUTIME TAKEN: 2622.79 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -587.8886097487198 REUTIME TAKEN: 2651.83 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -584.6154814545807 REUTIME TAKEN: 2632.04 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -581.5536527492976 REUTIME TAKEN: 2676.98 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -585.3478625019005 REUTIME TAKEN: 2666.18 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -577.8638482595999 REUTIME TAKEN: 2627.38 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -588.2963532108017 REUTIME TAKEN: 2608.84 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -584.5873417520859 REUTIME TAKEN: 2626.0 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -591.4607652433841 REUTIME TAKEN: 2629.21 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -601.2923682789799 REUTIME TAKEN: 2620.86 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -604.4538318956849 REUTIME TAKEN: 2641.08 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -562.6659568023323 REUTIME TAKEN: 2597.22 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -585.5817152211138 REUTIME TAKEN: 2656.12 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -594.6998249780652 REUTIME TAKEN: 2686.4 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -588.6675493557832 REUTIME TAKEN: 2692.32 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -585.7840956109509 REUTIME TAKEN: 2659.16 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -588.8158317702296 REUTIME TAKEN: 2628.09 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -587.8811636974027 REUTIME TAKEN: 2595.4 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -572.6439090703104 REUTIME TAKEN: 2577.34 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -582.2960720713895 REUTIME TAKEN: 2589.41 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -583.3145075546254 REUTIME TAKEN: 2684.78 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -583.545502709533 REUTIME TAKEN: 2595.07 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -592.325050591461 REUTIME TAKEN: 2592.68 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -590.2546461538114 REUTIME TAKEN: 2612.28 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -579.9897894001651 REUTIME TAKEN: 2656.96 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -595.2963646966041 REUTIME TAKEN: 2645.49 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -590.1193780440979 REUTIME TAKEN: 2667.08 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -587.0760064819519 REUTIME TAKEN: 2598.1 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -591.2105205780365 REUTIME TAKEN: 2627.09 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -586.771396004677 REUTIME TAKEN: 2662.46 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -585.6663362188629 REUTIME TAKEN: 2620.36 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -584.2596495963979 REUTIME TAKEN: 2594.14 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -595.912208595017 REUTIME TAKEN: 2646.92 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -591.2951319547814 REUTIME TAKEN: 2654.54 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -574.1005486723169 REUTIME TAKEN: 2604.42 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -586.4980247182388 REUTIME TAKEN: 2616.81 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -586.467515946729 REUTIME TAKEN: 2587.63 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -589.3752975808791 REUTIME TAKEN: 2633.48 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -593.9937515998051 REUTIME TAKEN: 2664.44 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -575.2102963311245 REUTIME TAKEN: 2634.0 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -577.9100197875065 REUTIME TAKEN: 2582.24 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -583.8939182545491 REUTIME TAKEN: 2660.88 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -595.4960734110066 REUTIME TAKEN: 2638.5 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -566.5804628729836 REUTIME TAKEN: 2638.92 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -574.5636841365114 REUTIME TAKEN: 2654.37 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -567.208182710803 REUTIME TAKEN: 2640.05 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -606.7839051991925 REUTIME TAKEN: 2618.54 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -583.9500272868208 REUTIME TAKEN: 2680.48 seconds
+
+
+Testing the combination:
+	*tournament size = 3
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -592.0597238512858 REUTIME TAKEN: 2664.03 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -591.3183692513207 REUTIME TAKEN: 2663.67 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -585.6523317359872 REUTIME TAKEN: 2660.49 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -578.7876965294787 REUTIME TAKEN: 2615.7 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -594.1619231447147 REUTIME TAKEN: 2594.65 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -579.5056189564928 REUTIME TAKEN: 2639.12 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -578.8645876974842 REUTIME TAKEN: 2603.56 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -590.3944354504716 REUTIME TAKEN: 2674.15 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -588.8127617050992 REUTIME TAKEN: 2633.05 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -579.8081747604389 REUTIME TAKEN: 2651.92 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -575.4271660654904 REUTIME TAKEN: 2659.61 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -579.8489860731568 REUTIME TAKEN: 2670.7 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -598.2921563823372 REUTIME TAKEN: 2639.31 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -568.0750586467265 REUTIME TAKEN: 2660.03 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -586.8599233665152 REUTIME TAKEN: 2709.61 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -578.3745742238152 REUTIME TAKEN: 2621.63 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -586.4991768338971 REUTIME TAKEN: 2625.38 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -593.4675894076048 REUTIME TAKEN: 2660.78 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -576.1659984587325 REUTIME TAKEN: 2661.32 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -575.6441597887178 REUTIME TAKEN: 2619.19 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -591.3350240643513 REUTIME TAKEN: 2613.6 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -576.5720601002428 REUTIME TAKEN: 2644.38 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -579.358273931315 REUTIME TAKEN: 2627.35 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -595.1498655436184 REUTIME TAKEN: 2662.61 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -595.6512007640515 REUTIME TAKEN: 2642.08 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -562.9136096845868 REUTIME TAKEN: 2620.03 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -584.4599082444099 REUTIME TAKEN: 2623.8 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -583.8995694635007 REUTIME TAKEN: 2669.39 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -586.462743168802 REUTIME TAKEN: 2574.91 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -593.3286282745181 REUTIME TAKEN: 2627.83 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -602.123396120667 REUTIME TAKEN: 2642.79 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -588.1154539524932 REUTIME TAKEN: 2660.29 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -592.7625697494309 REUTIME TAKEN: 2638.33 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -588.1335294142119 REUTIME TAKEN: 2660.09 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -574.6986634789452 REUTIME TAKEN: 2612.98 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -568.3686126911251 REUTIME TAKEN: 2619.66 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -577.6877556947545 REUTIME TAKEN: 2665.19 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -599.2473289695512 REUTIME TAKEN: 2587.58 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -582.6696149965916 REUTIME TAKEN: 2687.93 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -596.3474535153006 REUTIME TAKEN: 2636.78 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -586.6775025969123 REUTIME TAKEN: 2607.26 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -586.9769240090567 REUTIME TAKEN: 2711.37 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -597.0606765253143 REUTIME TAKEN: 2641.51 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -577.1161369151266 REUTIME TAKEN: 2586.43 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -575.6043427879242 REUTIME TAKEN: 2650.32 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -569.4536443401195 REUTIME TAKEN: 2655.9 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -588.0666869764215 REUTIME TAKEN: 2655.88 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -596.5058803993722 REUTIME TAKEN: 2672.58 seconds
+
+
+Testing the combination:
+	*tournament size = 4
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -576.4656204708839 REUTIME TAKEN: 2604.52 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -581.0971880323938 REUTIME TAKEN: 2574.44 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -596.654478249864 REUTIME TAKEN: 2637.05 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -595.0239724245644 REUTIME TAKEN: 2703.05 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -601.7828960265797 REUTIME TAKEN: 2658.69 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -594.0846171277061 REUTIME TAKEN: 2642.3 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -594.6256015327914 REUTIME TAKEN: 2659.75 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -596.7968093071286 REUTIME TAKEN: 2657.24 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -609.1291729462431 REUTIME TAKEN: 2668.95 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -598.062073839136 REUTIME TAKEN: 2613.5 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -584.4086945995828 REUTIME TAKEN: 2640.64 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -591.8540126121693 REUTIME TAKEN: 2649.24 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -584.146773802184 REUTIME TAKEN: 2636.52 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -605.7977706484182 REUTIME TAKEN: 2611.43 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -592.7118217396536 REUTIME TAKEN: 2674.49 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -607.4074460421027 REUTIME TAKEN: 2640.35 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -578.8307743062691 REUTIME TAKEN: 2679.24 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -582.5103783017894 REUTIME TAKEN: 2651.5 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -578.3225821659644 REUTIME TAKEN: 2658.24 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -579.1686337341566 REUTIME TAKEN: 2647.78 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -576.2703751805525 REUTIME TAKEN: 2697.48 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -589.0913161341659 REUTIME TAKEN: 2669.86 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -587.1892247997893 REUTIME TAKEN: 2659.92 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -588.6555037707867 REUTIME TAKEN: 2663.76 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 1
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -587.3610537667165 REUTIME TAKEN: 2658.28 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -587.1484729437503 REUTIME TAKEN: 2605.9 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -589.7795467729792 REUTIME TAKEN: 2632.81 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -578.0022730455129 REUTIME TAKEN: 2651.81 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -570.7842799438148 REUTIME TAKEN: 2680.81 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -575.7367678224597 REUTIME TAKEN: 2716.37 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 2
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -576.5700220064512 REUTIME TAKEN: 2672.45 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -593.8826278900599 REUTIME TAKEN: 2642.62 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -586.0327532783786 REUTIME TAKEN: 2701.69 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -583.9367963293851 REUTIME TAKEN: 2608.85 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -592.9835074685511 REUTIME TAKEN: 2700.18 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -595.6410366795806 REUTIME TAKEN: 2694.96 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 3
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -574.9141463218468 REUTIME TAKEN: 2660.21 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -584.7805521120993 REUTIME TAKEN: 2672.89 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -565.140556082713 REUTIME TAKEN: 2631.13 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -593.8998620136301 REUTIME TAKEN: 2684.5 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -562.1524124022244 REUTIME TAKEN: 2662.77 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -591.5980867032656 REUTIME TAKEN: 2677.29 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 5
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -600.7020633877919 REUTIME TAKEN: 2648.99 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.05
+	*crossing over rate = 0.95
+Best fitness found = -576.501210302751 REUTIME TAKEN: 2701.39 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.1
+	*crossing over rate = 0.9
+Best fitness found = -587.1408631954636 REUTIME TAKEN: 2706.27 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.15
+	*crossing over rate = 0.85
+Best fitness found = -586.0628098233767 REUTIME TAKEN: 2741.56 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.2
+	*crossing over rate = 0.8
+Best fitness found = -580.1961626666928 REUTIME TAKEN: 2709.18 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.25
+	*crossing over rate = 0.75
+Best fitness found = -598.7018948704532 REUTIME TAKEN: 2647.42 seconds
+
+
+Testing the combination:
+	*tournament size = 5
+	*elitism = 2
+	*elitism limit = 20
+	*mutation rate = 0.3
+	*crossing over rate = 0.7
+Best fitness found = -573.7616068292999 REUTIME TAKEN: 2693.28 seconds
+
+
