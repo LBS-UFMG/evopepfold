@@ -1,6 +1,6 @@
-<p align="center">
-  <span style="font-size:36px; font-weight:700;">EvoPepFold</span>
-</p>
+<h1  align="center">
+  EvoPepFold
+</h1 >
 
 ## Overview
 This repository contains code that depends on PyRosetta and Local ColabFold and is intended to run on a machine with substantial compute resources. Individual runs typically take **several days**. This README explains how to prepare the environment, install dependencies, and run the code safely in the background on a Linux server.
