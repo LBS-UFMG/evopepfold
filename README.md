@@ -95,20 +95,6 @@ echo $!
 tail -f run_version_x.log
 ```
 
-**tmux**
-
-```bash
-tmux new -s jobname
-# inside tmux:
-python run_version_x.py
-# detach: Ctrl-b d
-# reattach:
-tmux attach -t jobname
-```
-
-**Job scheduler (recommended on shared clusters)**
-Use SLURM/SGE/etc. if available to reserve nodes and avoid unexpected job termination.
-
 ---
 
 ## ColabFold server note
@@ -133,20 +119,11 @@ __pycache__/
 *.log
 nohup.out
 
-# Environments
-.env
-env/
-venv/
-project-env/
-cf-env/
-
-# Models / weights / data
-models/
-weights/
-data/
-
-# PyRosetta, ColabFold caches
-*.cache
+# PyRosetta, ColabFold, Gridsearch and Initial Screening results and cache
+*.pdb
+*.fasta
+Results/
+Temp/
 ```
 
 ---
