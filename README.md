@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size:36px;">
   <strong>EvoPepFold</strong>
 </p>
 
