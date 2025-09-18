@@ -1,5 +1,5 @@
-<p align="center" style="font-size:36px;">
-  <strong>EvoPepFold</strong>
+<p align="center">
+  <span style="font-size:36px; font-weight:700;">EvoPepFold</span>
 </p>
 
 ## Overview
